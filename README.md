@@ -1,11 +1,11 @@
 # DesignChip
 
-#### A web application that helps people learn about the principles of design.
-#### Gives peoplex project ideas that exercise those new principles.
-#### Has a place for people to save their own swatches and samples/inspo.
-#### Has a place for people to plan their project.
+### Designed with You in Mind
 
-------
+#### A web application that helps people learn about the principles of design.
+1. Gives people project ideas that exercise those new principles.
+2. Has a place for people to save their own swatches and samples/inspo.
+3. Has a place for people to plan their project.
 
 ### Stretch goals
 
